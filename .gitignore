@@ -6,6 +6,7 @@
 AssetBundles*
 Assets/StreamingAssets*
 Assets/AssetStoreTools*
+Packages/packages-lock.json
 
 # Visual Studio cache directory
 .vs/
