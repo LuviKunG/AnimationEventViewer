@@ -24,14 +24,14 @@ Then merge this json format below.
 ```json
 {
   "dependencies": {
-    "com.luvikung.animationeventviewer": "https://github.com/LuviKunG/AnimationEventViewer#1.0.0"
+    "com.luvikung.animationeventviewer": "https://github.com/LuviKunG/AnimationEventViewer.git#1.0.0"
   }
 }
 ```
 
 If you want to install the older version, please take a look at release tag in this git, then change the path after **#** to the version tag that you want.
 
-### Unity 2019.3 Git URL
+### Unity 2019.3+ Git URL
 
 In Unity 2019.3 or greater, Package Manager is include the new feature that able to install the package via Git.
 
@@ -39,6 +39,6 @@ In Unity 2019.3 or greater, Package Manager is include the new feature that able
 
 Just simply using this git URL and following with version like this example.
 
-**https://github.com/LuviKunG/GraphicShaders.git#1.0.0**
+**https://github.com/LuviKunG/AnimationEventViewer.git#1.0.0**
 
 Make sure that you're select the latest version.
