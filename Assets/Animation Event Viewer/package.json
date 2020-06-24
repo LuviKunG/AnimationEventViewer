@@ -1,0 +1,19 @@
+{
+  "name": "com.luvikung.animationeventviewer",
+  "displayName": "Animation Event Viewer",
+  "description": "Animation Event Viewer is Unity Editor tools for view Animation asset properties includes AnimationEvent and types",
+  "version": "1.0.0",
+  "unity": "2019.4",
+  "keywords": [
+    "animation",
+    "event",
+    "events",
+    "view",
+    "viewer",
+    "inspector",
+    "unity",
+    "editor"
+  ],
+  "author": "Thanut Panichyotai",
+  "license": "MIT"
+}
